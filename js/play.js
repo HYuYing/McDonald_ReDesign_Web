@@ -1,0 +1,9 @@
+$(document).ready(function(){ 
+    $('#circleContent').carousel({interval:3000});//每隔3秒自動輪播 
+    }); 
+$(document).ready(function(){ 
+    $('#circleContent2').carousel({interval:3000});
+    }); 
+$(document).ready(function(){ 
+    $('#circleContent3').carousel({interval:3000});
+    }); 

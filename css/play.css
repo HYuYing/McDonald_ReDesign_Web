@@ -1,0 +1,25 @@
+/* 輪播圖 */
+#circleContent{ 
+    position: absolute;
+    right: 0;
+    width: 39%;
+    margin-left: 500px;
+    border-radius: 50px;
+    overflow: hidden;
+} 
+#circleContent2{ 
+    position: absolute;
+    right: 0;
+    width: 39%;
+    margin-left: 500px;
+    border-radius: 50px;
+    overflow: hidden;
+}
+#circleContent3{ 
+    position: absolute;
+    right: 0;
+    width: 39%;
+    margin-left: 500px;
+    border-radius: 50px;
+    overflow: hidden;
+}
