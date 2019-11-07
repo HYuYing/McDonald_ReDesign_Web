@@ -366,7 +366,7 @@ body{
     color: #ffd02c;
 }
 .footer_bg{
-    width: 100%;
+    width: 100vw;
     margin-top: -30px;
     z-index: -2;
 }
